@@ -1,0 +1,680 @@
+application software 应用软件
+Blu-ray      蓝光
+cloud computing      云计算
+communication device      通信设备
+compact disc    光盘
+computer competency      计算机能力
+connectivity      连通性
+data      数据
+database file      数据库文件
+desktop computer      台式电脑
+device driver      设备驱动程序
+digital versatile disc      数字通用光盘
+ digital video disc      数字视频光盘
+document file      文档文件
+end user      最终用户
+flash memory card      闪速存储卡
+general-purpose application      通用应用程序
+handheld computer      掌上电脑
+hard disk      硬盘
+hardware      硬件
+information      信息
+information system      信息系统
+information technology      信息技术
+input device      输入设备
+Internet      因特网，国际互联网络，国际网
+keyboard      键盘
+laptop computer      膝上型计算机
+mainframe computer      大型计算机
+memory      内存，存储器
+microcomputer      微型计算机
+microprocessor      微处理器
+midrange computer      中型计算机
+mobile app (application)      移动APP
+modem      调制解调器
+monitor      监视器
+mouse      鼠标
+network      网络
+notebook computer      笔记本电脑
+operating system       操作系统
+optical disc      光盘
+output device      输出设备
+people      人
+personal digital assistant       个人数字助理(一般为掌上电脑)
+presentation file      演示文件
+printer      打印机
+procedures      过程
+program      程序
+random-access memory       随机访问存储器
+secondary storage      辅助存储设备
+server      服务器
+smartphone      智能手机
+software      软件
+solid-state drive      固态驱动器
+solid-state storage      固态存储
+specialized application      专门应用软件
+supercomputer      超级计算机
+system software      系统软件
+system unit      系统单元
+tablet      平板
+tablet computer      平板电脑
+utility      实用程序
+virus      病毒
+web      环球网
+wireless revolution      无线革命
+worksheet file      工作表文件
+address      地址
+Advanced Research Project Agency Network      (美国国防部)高级研究计划署网络
+applets      小应用程序
+attachment      附件
+BitTorrent      比特流
+blog      博客
+browser      浏览器
+business to business      商家对商家-电子商务
+business to customer      企业对消费者-电子商务模式
+cable      电缆
+cascading style sheets       层叠样式表
+Center for European Nuclear Research      欧洲粒子物理研究所
+circles      圆
+client-based e-mail account      基于客户的电子邮件帐户
+cloud computing      云计算
+consumer-to-consumer       消费者对消费者-电子商务模式
+digital cash      数字现金
+domain name      域名
+downloading      下载
+DSL      数字用户线路
+e-commerce      电子商务
+e-learning      电子学习
+electronic commerce      电子商务
+electronic mail      电子邮件
+e-mail      电子邮件
+Facebook      脸谱
+Facebook groups      脸谱群
+Facebook Pages      脸谱页面
+Facebook Profile      脸谱概况
+file transfer protocol      文件传送(输)协议
+filter      过滤器
+friend      朋友
+Google Plus       谷歌加
+Hangouts      
+header      电子邮件的信头
+hits      点击
+hyperlink      超链接
+Hypertext Markup Language      超文本标记语言
+instant messaging      即时通讯
+Internet      互联网
+Internet security suite      网络安全组件
+Internet Service Provider      英特网服务提供商
+link      链接
+LinkedIn      领英
+location      位置
+message      消息,报文
+microblog      微博
+mobile browser      移动浏览器
+online      在线
+online banking      网上银行
+plug-in      插件
+podcast      播客
+protocol      协议
+search engine      搜索引擎
+search service      搜索服务
+secure file transfer protocol       安全文件传送协议
+signature      签名
+social networking      社会网络
+spam      垃圾电子邮件
+spam blocker      垃圾邮件拦截器
+spam filter      垃圾邮件过滤
+Sparks      火花
+specialized search engine      专用搜索引擎
+spider      爬行程序
+streaming      流媒体
+subject      主题
+surf      网上冲浪
+text messaging       文本消息
+top-level domain      顶级域名
+Twitter      推特
+uniform resource locator      统一资源定位器
+universal instant messenger      通用即时信使
+uploading      上传,上载
+virus      病毒
+web      万维网
+web auction      网上拍卖
+web-based e-mail client      基于网络的电子邮件客户端
+web-based file transfer services      基于网络的文件传输服务
+webcast      网络广播
+web directory      网络目录
+web log      网络日志
+webmail      网络邮件
+webmail client      邮件客户端
+webmaster      网站管理者
+web page      网页
+web utilities      网络工具
+wiki      维基
+Wikipedia      维基百科
+wireless modem      无线调制解调器
+animation      动画
+app      应用程序
+application software      应用软件
+AutoContent wizard      内容提示向导
+bitmap image      位图图像
+button      按扭
+clip art      剪辑图
+cloud suite      云套件
+contextual tab      上下文选项卡
+database      数据库
+database management system      数据库管理系统
+database manager      数据库管理员
+desktop publishing program      桌面出版程序
+dialog box      对话框
+document      文档
+drawing program      绘图程序
+Flash      
+gallery      画廊
+general-purpose application      通用应用
+graphical site map      图形的网站地图
+graphical user interface      图形用户界面
+group      组
+HTML editor      超文本标记语言编辑器
+icon      图标
+illustration program      演示程序
+image editor      图像编辑器
+image gallery      图像画廊
+menu      菜单
+menu bar      菜单条
+mobile apps (applications)      移动应用程序
+office software suites      办公软件套件
+office suites      办公套件
+online office suite      在线办公套件
+page layout program      页面布局程序
+photo editor      照片编辑器
+pixel      像素
+pointer      指针，光标
+presentation graphics      演示图形
+productivity suite      生产率应用套件
+quick response code      快速响应码
+raster      光栅
+record      记录
+ribbon      带
+ribbon GUI      带图形用户界面
+slide      幻灯片
+software engineer      软件工程师
+software suite      软件套件
+specialized application      专业应用
+specialized suite      专业套件
+stock photograph      
+system software      系统软件
+tab      标签
+toolbar      工具条
+user interface      用户界面
+utility suite      实用套件
+vector illustration      矢量图
+vector image      矢量图像
+web authoring      网页制作
+web authoring program       网络编辑程序
+web page editor      网页编辑器
+window      窗口
+word processor      字符处理器
+WYSIWYG (what you see is what you get) editor      所看即所得编辑
+Add a Device Wizard      添加设备向导
+Android      安卓
+antivirus program      防病毒程序
+background      后台
+Backup and Restore      备份和恢复
+backup program      备份程序
+BlackBerry OS      黑莓操作系统
+booting      启动
+cold boot      冷启动
+computer support specialist      电脑支持专员
+desktop      桌面
+desktop operating systems      桌面操作系统
+device driver      设备驱动程序
+diagnostic program      诊断程序
+dialog box      对话框
+Disk Cleanup      磁盘清理
+Disk Defragmenter      磁盘碎片整理程序
+driver      驱动程序
+embedded operating system      嵌入式操作系统
+file      文件
+file compression program      文件压缩实用程序
+folder      文件夹
+foreground      前台
+fragmented      成碎片的,片断的
+gesture control      挥手感控
+graphical user interface      图形用户界面
+guest operating system      客户操作系统
+Help      帮助
+host operating system      主操作系统
+icon      图标
+language translator      语言翻译程序
+Launchpad      启动
+menu      菜单
+Mission Control      任务控制
+mobile operating system      移动操作系统
+multitasking      多任务
+network operating system      网络操作系统
+network server      网络服务器
+open source      开放源代码
+operating system      操作系统
+platform      平台
+pointer      指针
+sector      扇区
+software environment      软件环境
+software platform      软件平台
+stand-alone operating system      单机操作系统
+system software      系统软件
+tab       
+track      轨道
+troubleshooting program      故障诊断程序
+UNIX      
+user interface      用户界面
+utilities      实用程序
+utility suite      实用工具套件
+virtual machine      虚拟机
+virtualization      虚拟化技术
+virtualization software      虚拟化软件
+virus      病毒
+warm boot?      热启动
+WebOS      网络操作系统
+window      窗口
+Windows      视窗
+AC adapter      交流电适配器
+all-in-one      多功能一体机
+analog      模拟
+arithmetic-logic unit      算术逻辑单元
+arithmetic operation      算术操作
+American Standard Code for Information Interchange      美国信息交换标准码
+binary system      二进制系统
+basic input/output system      基本输入输出系统
+bit      位
+boot      启动
+bus      总线
+bus line      总线
+bus width      总线宽度
+byte      字节
+cable      电缆
+cache memory      高速缓冲存储器
+carrier package      薄膜封装
+central processing unit      中央处理器
+character encoding standards      字符编码标准
+chip      芯片
+clock rate      时钟速率
+clock speed      时钟频率
+computer technician      计算机技术人员
+control unit      控制部件
+coprocessor      协处理器
+desktop      桌面
+digital      数字的
+dual in-line memory module      双列直插内存模块
+Digital Video Interface Port      数字视频接口
+Extended Binary Coded Decimal Interchange Code      扩充的二进制编码的十进制交换码
+Ethernet port      以太网端口
+expansion bus      扩展总线
+expansion card      扩展卡
+expansion slot      扩展槽
+ExpressCard      
+external Serial Advanced Technology Attachment      外部串行高级技术附件
+FireWire bus      火线总线
+FireWire port      火线端口
+flash menory      闪速存储器
+game port      游戏端口
+graphics processing unit      图形处理单元
+graphics card      图形卡
+graphics coprocessor      图形协处理器
+handheld      手持
+hexadecimal system?      十六进制系统
+High Definition Multimedia Interface      高定义多媒体接口
+integrated circuit      集成电路
+laptop      膝上型电脑
+legacy port      传统端口
+logical operation      逻辑操作
+main board      主板
+memory      内存
+micorporcessor      微处理器
+Mini DisplayPort      
+motherboard      底板,母板
+multicore chip      多核芯片
+musical instrument digital interface      乐器数字接口
+netbook      上网本
+network adapter card      网络适配卡
+network interface card      网卡
+notebook      笔记本电脑
+optical audio connections      光纤音频连接
+parallel processing      并行处理
+Plug and Play      即插即用
+port      端口
+power supply unit      电源供应部件
+processor      处理器
+random-access memory      随机存取内存,随机存取存储器
+read-only memory      只读存储器
+semiconductor      半导体
+silicon chip      半导体芯片
+slot      插槽
+smartphone      智能手机
+socket      套接字，插座
+Sony/Philips Digital Interconnect Format      索尼/飞利浦数字互连格式
+sound card      声卡
+system board      系统板
+system bus      系统总线
+system chassis      系统机箱
+system unit      系统单元
+tablet      平板
+tower computer      塔式计算机
+Unicode      统一的字符编码标准
+universal serial bus      通用串行总线
+universal serial bus port      通用串行总线端口
+Video Graphic Adapter port      视频图形适配器端口
+virtual memory      虚拟内存
+wireless network card      无线网络卡
+word      字
+active display area      有效显示区域
+active-matrix organic light-emitting diode      有源矩阵有机发光二极管
+artificial intelligence?      人工智能
+aspect ratio      纵横比
+bar code      条形码
+bar code reader      条形码阅读器
+card reader      读卡器
+carpal tunnel syndrome       腕关节并发症
+cathode-ray tube      阴极射线管
+clarity      清晰度
+cloud printer      云打印机
+combination key      组合键
+contrast ratio      对比度
+cordless mouse      无线鼠标
+digital camera      数字照相机
+digital media player      数字媒体播放器
+dance pad      跳舞垫
+digital video camera      数码摄象机
+digital whiteboard      数字白板
+display screen      显示屏幕
+document scanner      文件扫描仪
+dot pitch      (CRT显示器的)点矩
+dots per inch      每英寸点数
+duplex printing      双面打印
+e-book reader      电子书阅览器
+ergonomics      人机工程学
+e-ink      电子墨水
+flat-panel monitor      平板监视器
+flatbed scanner      平台型扫描仪
+gamepad      游戏机手柄
+game controller      游戏控制器
+Google Cloud Print      谷歌的云打印
+grayscale      灰度
+handwriting recognition software      手写识别软件
+hard copy      电脑打印稿, 硬拷贝
+headsets      耳机
+high-definition television      高清电视
+household robot      家用机器人
+immersive experience      沉浸式体验
+industrial robot      工业机器人
+inkjet printer      喷墨打印机
+input      输入
+input device      输入设备
+interactive whiteboard      交互式白板
+Internet telephone      网络电话
+Internet telephony      网络电话制作学
+joystick      操纵杆
+keyboard      键盘
+laster printer      激光打印机
+liquid crystal display      液晶显示器
+magnetic card reader      磁卡阅读器
+magnetic-ink character recognition      磁墨水字符识别
+Mobile Digital Television      移动数字电视
+mobile robots      移动机器人
+monitor      监视器
+motion sensing device      运动传感装置
+mouse      鼠标
+mouse pointer      鼠标指针
+multifunction device      多功能设备
+multitouch screen      多点触摸屏
+notebook keyboard      笔记本键盘
+optical-character recognition      光学字符识别
+optical-mark recognition      光标记阅读
+optical mouse      光电鼠标
+optical scanner      光学扫描仪
+output      输出
+output device      输出设备
+perception system robot      机器人感知系统
+personal laser printer      个人激光打印机
+photo printer      照片打印机
+pixel?      像素
+picture elements      像素
+pixel pitch      像素间距
+platform scanner      平台扫描仪
+plotter      绘图仪
+pointing device      定位设备
+pointing stick      定位杆
+portable media player      便携式媒体播放器
+portable scanner      便携式扫描仪
+printer      打印机
+resolution      分辨率
+radio-frequency identification  reader      射频识别阅读器
+radio-frequency identification  tag      射频识别标签
+robot      机器人
+robotics      机器人技术
+scanner      扫描仪
+scanning devices      扫描装置
+shared laser printer      共享激光打印机
+Skype       
+soft copy      软复制
+speakers      扬声器
+stylus      手写笔
+technical writer      技术作家
+telephony       
+thermal printer      热敏式打印机
+thin film transistor monitor      薄膜晶体管
+thumb keyboard      拇指键盘
+toggle key      切换键
+touch pad      触摸板
+touch screen      触摸屏
+trackball      轨迹球
+traditional keyboard      传统的键盘
+Universal Product Code      通用产品代码
+virtual keyboard      虚拟键盘
+voice recognition system      语音识别系统
+wand reader      磁卡片信息读出器
+webcam      网络摄像头
+wheel button      滚轮按钮
+wireless mouse      无线鼠标
+access speed      访问速度,存取速度
+Blu-ray disc?      蓝光光盘
+capacity      容量
+compact disc      光盘
+CD-recordable      可写光盘
+compact disc-read only memory      只读光盘
+compact disc rewritable      可重写光盘
+cloud computing      云计算
+cylinder      柱面
+density      密度
+disk caching      磁盘高速缓存技术
+digital versatile disc or digital video disk      通用数字视频光盘
+DVD random-access memory      一种DVD刻录格式
+enterprise storage system      企业存储系统
+erasable optical disk      可擦写光盘
+external hard drive      外部硬盘驱动器
+file compression      文件压缩
+file decompression      文件解压缩
+file server      文件服务器
+flash drive      闪存驱动器
+flash memory card      闪存卡
+hard disk      硬盘
+head crash      磁头碰撞
+high definition      高密度
+internal hard disk      内置硬盘
+land      凸区
+lands and pits      凸起和凹坑
+mass storage      海量存储
+mass storage devices      海量存储设备
+media      媒体,介质
+network attached storage      网络附加存储
+online storage      在线存储
+optical disc      光盘
+organizational cloud storage      组织云存储
+pit      凹坑
+platter      盘
+primary storage      主存
+redundant arrays of inexpensive disks      廉价磁盘阵列,冗余阵列磁盘机
+secondary storage      辅存
+secondary storage device      辅助存储设备
+sector      扇区
+solid-state drive?      固态驱动器
+solid-state storage      固态存储
+storage area network      存储区域网络
+storage device      存储设备
+tape library      磁带库
+track      轨道
+third-generation mobile telecommunications      第三代移动通信
+fourth-generation mobile telecommunications      第四代移动通信
+analog signal       模拟信号
+asymmetric digital subscriber line      不对称数字用户线
+backbone?See?bus.?bandwidth      主干总线.带宽
+baseband      基带
+Base station       基站
+Bluetooth       蓝牙
+broadband      宽带
+bus      总线
+bus network       总线网
+cable modem        电缆调制解调器  
+cable service provider      有线电视服务提供商
+cellular service      蜂窝服务
+client      客户
+client/server network      客户机/服务器网络
+coaxial cable       同轴电缆
+communication channel       通信电路，信道
+communication system       通信系统
+computer network       计算机网络
+connectivity       连通性
+demodulation       解调, 检波
+dial-up service       拨号服务
+digital signal       数字信号
+digital subscriber line      数字用户环线
+digital subscriber line service      数字用户专线服务
+directory server      目录服务器
+domain name server      域名服务器
+Downlink       向下链路 
+DS3      
+Ethernet      以太网
+Ethernet cable      以太网电缆
+extranet       外联网
+fiber-optic cable       光纤电缆
+firewall       防火墙
+global positioning system       全球定位系统
+hierarchical network?See?tree network.?home network      分层次网络，参见树型网络，家庭网络
+host      主机
+hotspot      热点
+hypertext transfer protocol secure      超文本传输协议
+hub       网络集线器
+infrared       红外线 
+intrusion detection system      入侵检测系统
+local area network      局部区域网络
+low bandwidth       低带宽 
+Long Term Evolution      长期演进技术
+medium band      中带宽度
+megabits per second      兆比特每秒
+mesh network      网状网络
+metropolitan area network       城域网
+microwave       微波 
+modem       调制解调器
+modulation       调制
+network administrator       网络管理员
+network architecture       网络体系结构
+network gateway       网络网关 
+network interface card      网络接口卡
+network operating system      网络操作系统 
+node      节点
+optical carrier?      光载波
+packet       包，分组；数据[信息]包；分组报文；数据分组 
+peer-to-peer network      对等网络
+personal area network      个人区域网络
+protocol        协议
+proxy server       代理服务器 
+ring network       环型网络 
+router      路由器
+satellite        卫星
+satellite connection service      卫星连接设备
+server        服务器
+star network        星型网络
+strategy       策略
+switch      开关
+telephone line       电话线 
+telephone modem      电话调制解调器
+topology      拓扑结构
+transfer rate        传输速率
+transmission control protocol/Internet protocol      传输控制协议/网际协议
+tree Network      树形网络
+twisted-pair cable      双绞[扭]线电缆
+uplink        向上传输,上行线, 卫星上行链路
+virtual private network      虚拟专用网
+voiceband       语音频道 
+wide area network       广域网 
+wireless fidelity      无线保真
+Worldwide Interoperability for Microwave Access?Technology      
+wireless LAN        无线局域网
+wireless modem        无线调制解调器
+wireless wide area network  modem      无线广域网络的调制解调器
+access       访问 
+accuracy        正确性
+antispyware      反间谍软件
+biometric scanning       生物特征扫描 
+botnet      僵尸网络
+browser cache      浏览器缓存
+computer crime        计算机犯罪
+computer ethics        计算机道德规范
+Computer Fraud and Abuse Act      计算机诈骗和滥用行动
+computer monitoring software      计算机监控软件
+cookies      信息记录程序
+copyright      版权
+cracker        解密高手
+cyberbullying      网络欺凌
+cybercrime      网络犯罪
+data security       数据安全 
+denial of service attack        拒绝服务攻击
+dictionary attack      字典式攻击
+Digital Millennium Copyright Act      数字千年版权法案
+digital rights management      数字版权管理
+disaster recovery plan      灾难恢复计划
+electronic profile      电子文档 
+encryption      加密
+encryption key      加密密钥
+ethics        道德规范
+Family Educational Rights and Privacy Act      家庭教育权利和隐私法案
+firewall        防火墙
+first-party cookie      第一方Cookie
+Freedom of Information Act       信息自由法案
+hacker        电脑黑客
+Health Insurance Portability and Accountability Act      健康保险流通与责任法案
+history file        历史文件
+hypertext transfer protocol secure      超文本传输协议
+identify theft        身份盗窃
+illusion of anonymity        匿名假象
+information brokers        信息经纪人
+information resellers        信息转售商
+key      键入
+keystroke loggers      按键记录器
+malware      恶意软件
+mistaken identity      错误身份 
+online identity      在线身份
+password      密码
+phishing      网络欺诈
+physical security      物理安全
+plagiarism      剽窃
+plagiarist      剽窃者
+privacy      隐私 
+privacy mode      隐私模式
+Private Browsing      私人浏览
+property      财产
+reverse directory      反向目录
+robot network      机器人网络
+rogue Wi-Fi hotspot      流氓WiFi热点
+scam      欺诈
+security      安全
+spy removal program      间谍删除程序
+spyware      间谍软件
+temporary Internet file      临时互联网文件
+third-party cookies      
+virtual private network      虚拟专用网络
+virus      病毒
+web bugs      网络漏洞
+wireless network encryption      无线网络加密
+worm      蠕虫
+zombie      僵尸
+
